@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raju Singh</h1>
 <h3 align="center">A passionate Software Engineering from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3cpgYMvOf2ddTCCEE6U5jb&ust=1736173593740000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCdvuTk3ooDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r001-singhaju&label=Profile%20views&color=0e75b6&style=flat" alt="r001-singhaju" /> </p>
 
